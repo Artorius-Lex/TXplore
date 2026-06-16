@@ -1,0 +1,14 @@
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/bin/Debug/net10.0/TerminalExplorer
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/bin/Debug/net10.0/TerminalExplorer.deps.json
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/bin/Debug/net10.0/TerminalExplorer.runtimeconfig.json
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/bin/Debug/net10.0/TerminalExplorer.dll
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/bin/Debug/net10.0/TerminalExplorer.pdb
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/obj/Debug/net10.0/TerminalExplorer.GeneratedMSBuildEditorConfig.editorconfig
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/obj/Debug/net10.0/TerminalExplorer.AssemblyInfoInputs.cache
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/obj/Debug/net10.0/TerminalExplorer.AssemblyInfo.cs
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/obj/Debug/net10.0/TerminalExplorer.csproj.CoreCompileInputs.cache
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/obj/Debug/net10.0/TerminalExplorer.dll
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/obj/Debug/net10.0/refint/TerminalExplorer.dll
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/obj/Debug/net10.0/TerminalExplorer.pdb
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/obj/Debug/net10.0/TerminalExplorer.genruntimeconfig.cache
+/home/a/A/Privat/ItProject/TerminalExplorer/TerminalExplorer/obj/Debug/net10.0/ref/TerminalExplorer.dll
