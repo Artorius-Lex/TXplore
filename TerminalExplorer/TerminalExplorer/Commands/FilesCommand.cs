@@ -1,4 +1,5 @@
 namespace TerminalExplorer;
+using System.IO;
 
 public class FilesCommand : ICommand
 {

@@ -16,13 +16,15 @@ public class AtlasApp
         registry.Register(new FilesCommand());
         registry.Register(new HelpCommand());
         registry.Register(new HelloWorldCommand()); // <-- Test-Befehl für das Text-Terminal registriert
-        
+        registry.Register(new AllInformationsOfTheDrive());
+        registry.Register(new ImportantDriveInfos());
         // --- Notiz: Beispiel-Hotkeys registrieren.
         // H -> Führt den "help" Befehl aus
         // F -> Führt den "files" Befehl aus
         hotkeys.Register(ConsoleKey.H, "help");
         hotkeys.Register(ConsoleKey.F, "files");
         hotkeys.Register(ConsoleKey.Spacebar, "helloworld"); // <-- Test-Befehl für die Leertaste registriert
+        
     }
 
     public void Run()
